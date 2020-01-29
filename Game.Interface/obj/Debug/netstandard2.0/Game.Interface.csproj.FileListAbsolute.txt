@@ -1,0 +1,8 @@
+C:\Users\User\Projeto\Game.Interface\bin\Debug\netstandard2.0\Game.Interface.deps.json
+C:\Users\User\Projeto\Game.Interface\bin\Debug\netstandard2.0\Game.Interface.dll
+C:\Users\User\Projeto\Game.Interface\bin\Debug\netstandard2.0\Game.Interface.pdb
+C:\Users\User\Projeto\Game.Interface\obj\Debug\netstandard2.0\Game.Interface.csprojAssemblyReference.cache
+C:\Users\User\Projeto\Game.Interface\obj\Debug\netstandard2.0\Game.Interface.AssemblyInfoInputs.cache
+C:\Users\User\Projeto\Game.Interface\obj\Debug\netstandard2.0\Game.Interface.AssemblyInfo.cs
+C:\Users\User\Projeto\Game.Interface\obj\Debug\netstandard2.0\Game.Interface.dll
+C:\Users\User\Projeto\Game.Interface\obj\Debug\netstandard2.0\Game.Interface.pdb

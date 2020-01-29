@@ -1,0 +1,16 @@
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.exe
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.deps.json
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.runtimeconfig.json
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.runtimeconfig.dev.json
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.dll
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\JogoOP.pdb
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.csprojAssemblyReference.cache
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.AssemblyInfoInputs.cache
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.AssemblyInfo.cs
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.dll
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.pdb
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\Game.Interface.dll
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\GameTOP.Lib.dll
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\GameTOP.Lib.pdb
+C:\Users\User\Projeto\JogoOP\bin\Debug\netcoreapp3.1\Game.Interface.pdb
+C:\Users\User\Projeto\JogoOP\obj\Debug\netcoreapp3.1\JogoOP.csproj.CopyComplete
